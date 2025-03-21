@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZigiZaga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fecbc295bf236262fbb63b3b8182c5e46b99524")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0783560a8c108f4084835625e687927dbceb20")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZigiZaga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZigiZaga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

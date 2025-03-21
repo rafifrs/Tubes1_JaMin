@@ -76,10 +76,10 @@ public class SeptikTank : Bot
             Fire(.1);
             
         Forward(40);
-    }
-    
-    public override void OnHitWall(HitWallEvent e)
-    {
+        }
+        
+        public override void OnHitWall(HitWallEvent e)
+        {
         Back(50);
         TurnRight(90);
     }
