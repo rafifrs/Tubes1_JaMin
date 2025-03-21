@@ -823,11 +823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Tubes1_JaMin\\src\\alternative-bots\\ZigiZaga\\ZigiZaga.csproj",
-      "projectName": "ZigiZaga",
-      "projectPath": "C:\\Users\\ASUS\\Tubes1_JaMin\\src\\alternative-bots\\ZigiZaga\\ZigiZaga.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Tubes1_JaMin\\src\\alternative-bots\\SeptikTank\\SeptikTank.csproj",
+      "projectName": "SeptikTank",
+      "projectPath": "C:\\Users\\ASUS\\Tubes1_JaMin\\src\\alternative-bots\\SeptikTank\\SeptikTank.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Tubes1_JaMin\\src\\alternative-bots\\ZigiZaga\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Tubes1_JaMin\\src\\alternative-bots\\SeptikTank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
