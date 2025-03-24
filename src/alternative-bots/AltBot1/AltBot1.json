@@ -1,8 +1,8 @@
 {
-    "name": "Nabrak Belok Bot",
+    "name": "JaMin",
     "version": "1.0",
-    "authors": ["Ahmad Wicaksono"],
-    "description": "Halo ges",
+    "authors": ["Dzaky Aurelia Fawwaz", "Rafif Farras" ,"Ahmad Wicaksono"],
+    "description": "Bot selalu bergerak sampai nabrak",
     "homepage": "",
     "countryCodes": ["id"],
     "platform": ".Net 9.0",

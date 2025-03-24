@@ -1,8 +1,8 @@
 {
-    "name": "Septik Tank",
+    "name": "JaMin",
     "version": "1.0",
-    "authors": ["Fawwaz"],
-    "description": "A bot that drives forward and backward, and fires a bullet",
+    "authors": ["Dzaky Aurelia Fawwaz", "Rafif Farras" ,"Ahmad Wicaksono"],
+    "description": "Bot yang pergerakannya sesuai kelemahan musuh",
     "homepage": "",
     "countryCodes": ["id"],
     "platform": ".Net 6.0",
