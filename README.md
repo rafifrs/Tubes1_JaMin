@@ -40,14 +40,12 @@ Analisis dan implementasi detail dari strategi-strategi ini dapat ditemukan dala
 - Robocode Royale GUI
 
 ### Instalasi
-
 1 **Clone repositori ini (atau download release)**:
 ```bash
 git clone https://github.com/rafifrs/Tubes1_JaMin.git
 ```
-2 **Unduh file jar Robocode Tank Royale**
-   https://github.com/Ariel-HS/tubes1-if2211-starter-pack/releases/tag/v1.0
-   
+2 **Unduh file jar Robocode Tank Royale** 
+   [Fle Jar Robocode Tank Royale](https://github.com/Ariel-HS/tubes1-if2211-starter-pack/releases/tag/v1.0)
 3 **Jalankan Robocode Tank Royale**
    ```bash
    java -jar robocode-tankroyale-gui-0.30.0.jar
