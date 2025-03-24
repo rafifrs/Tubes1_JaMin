@@ -52,6 +52,9 @@ git clone https://github.com/rafifrs/Tubes1_JaMin.git
    ```bash
    java -jar robocode-tankroyale-gui-0.30.0.jar
    ```
+4. Ikuti intruksi cara menjalankan permainan melalui tautan sebagai berikut
+   [Get Started With Robocode](https://docs.google.com/document/d/12upAKLU9E7tS6-xMUpJZ8gA1L76YngZNCc70AaFgyMY/edit?usp=)
+   
 ## Authors
 1. [@Dzaky Aurelia Fawwaz(13523065)](https://github.com/WwzFwz)
 2. [@Rafif Farras (13523095)](https://github.com/rafifrs)
