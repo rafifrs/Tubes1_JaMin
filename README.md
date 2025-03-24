@@ -45,7 +45,7 @@ Analisis dan implementasi detail dari strategi-strategi ini dapat ditemukan dala
 git clone https://github.com/rafifrs/Tubes1_JaMin.git
 ```
 2 **Unduh file jar Robocode Tank Royale** 
-   [Fle Jar Robocode Tank Royale](https://github.com/Ariel-HS/tubes1-if2211-starter-pack/releases/tag/v1.0)
+   [File Jar Robocode Tank Royale](https://github.com/Ariel-HS/tubes1-if2211-starter-pack/releases/tag/v1.0)
    
 3 **Jalankan Robocode Tank Royale**
    ```bash
